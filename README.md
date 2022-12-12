@@ -1,5 +1,7 @@
 # NorthwindDatabase
-You can find Northwind Datasabe Script!
+You can find Northwind Database Script for your MSSQL Practices !
+
+Have Fun :-) !
 
 
 Run the scripts in SSMS
